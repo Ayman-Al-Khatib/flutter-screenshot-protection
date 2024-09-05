@@ -1,16 +1,14 @@
-# prevent_screenshot
+# 📸 Flutter Screenshot Protection
 
-A new Flutter project.
+This application prevents or allows screen capture without using any packages. The native code is written in Kotlin.
 
-## Getting Started
+## Description 📝
 
-This project is a starting point for a Flutter application.
+- **Screenshot Protection Enabled**: It is not possible to take screenshots.
+- **Screenshot Protection Disabled**: It is possible to take screenshots.
 
-A few resources to get you started if this is your first Flutter project:
+This project demonstrates how to control screenshot functionality in a Flutter app using native Kotlin code, without relying on any external packages.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage 📋
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To enable or disable screenshot protection, follow the instructions provided in the code.
